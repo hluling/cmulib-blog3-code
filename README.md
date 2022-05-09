@@ -1,1 +1,2 @@
-# Python code snippet to retrieve data from a two consecutive zipped file structure
+# Python code snippet
+To retrieve data from a two consecutive levels of zipped file structure
