@@ -1,1 +1,1 @@
-# cmulib-blog3-code
+# Python code snippet to retrieve data from a two consecutive zipped file structure
